@@ -1,2 +1,3 @@
-# fio-mbxgl
-Preview GeoJSON locally
+fio-mbxgl
+=========
+Pipe in GeoJSON to preview
